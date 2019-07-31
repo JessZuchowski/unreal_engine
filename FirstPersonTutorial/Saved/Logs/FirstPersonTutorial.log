@@ -1861,3 +1861,141 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.30-23.23.57:927][710]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
 [2019.07.30-23.24.00:048][753]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
 [2019.07.30-23.24.05:286][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-01.59.05:340][946]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-02.00.01:574][138]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.07.31-02.00.07:592][485]BlueprintLog: New page: Compile EnemyOnePawn
+[2019.07.31-02.00.07:915][485]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2019.07.31-02.00.09:662][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyOnePawn" FILE="../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOnePawn.uasset" SILENT=true
+[2019.07.31-02.00.09:718][586]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyOnePawn6A1388464A34F3DFA05E21B9ED063C75.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOnePawn.uasset'
+[2019.07.31-02.00.33:493][802]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-02.00.35:428][898]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.07.31-02.00.35:584][898]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyTutorialMap_Auto7B19AD88B460A4728E1441EA1F2C056C1.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/Autosaves/Game/EnemyTutorialMap_Auto7.umap'
+[2019.07.31-02.00.35:588][898]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EnemyTutorialMap' took 0.189
+[2019.07.31-02.00.35:588][898]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.189
+[2019.07.31-02.00.37:414][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-02.00.37:635][ 20]LogSlate: Window 'EnemyOnePawn' being destroyed
+[2019.07.31-02.00.37:642][ 20]LogSlate: Window 'EnemyOnePawn' being destroyed
+[2019.07.31-02.02.00:482][440]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-02.02.18:114][872]LogUObjectHash: Compacting FUObjectHashTables data took  11.70ms
+[2019.07.31-02.02.18:258][872]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyTutorialMap402A984C4FCD5EAE5C9D4AA0E98454EB.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/EnemyTutorialMap.umap'
+[2019.07.31-02.02.22:183][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-02.02.22:401][103]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.31-02.02.22:417][103]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.31-02.02.22:417][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.31-02.02.22:419][103]PIE: New page: PIE session: EnemyTutorialMap (Jul 30, 2019, 12:02:22 PM)
+[2019.07.31-02.02.22:419][103]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EnemyTutorialMap
+[2019.07.31-02.02.22:454][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034841s)
+[2019.07.31-02.02.22:456][103]LogAIModule: Creating AISystem for world EnemyTutorialMap
+[2019.07.31-02.02.22:457][103]LogPlayLevel: PIE: World Init took: (0.003764s)
+[2019.07.31-02.02.22:458][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EnemyTutorialMap.EnemyTutorialMap to /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap (0.039300s)
+[2019.07.31-02.02.22:612][103]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.07.31-02.02.22:625][103]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.31-02.02.22:642][103]LogInit: FAudioDevice initialized.
+[2019.07.31-02.02.22:704][103]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.31-02.02.22:706][103]LogWorld: Bringing World /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap up for play (max tick rate 60) at 2019.07.30-19.02.22
+[2019.07.31-02.02.22:708][103]LogWorld: Bringing up level for play took: 0.002425
+[2019.07.31-02.02.22:734][103]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (FoolowPlayer) or object (EnemyOneAI_C_0)
+[2019.07.31-02.02.22:735][103]PIE: Play in editor start time for /Game/UEDPIE_0_EnemyTutorialMap -0.257
+[2019.07.31-02.02.22:736][103]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.31-02.02.34:623][815]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.31-02.02.34:624][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.31-02.02.34:657][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.31-02.02.34:657][815]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.31-02.02.34:698][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.31-02.02.34:702][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.07.31-02.02.34:727][816]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.07.31-02.02.39:217][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-02.02.59:430][296]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-02.03.07:783][792]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-02.03.30:281][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-02.03.48:295][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-02.04.00:316][938]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-02.04.03:366][121]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-02.04.05:751][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-02.04.16:002][879]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-02.04.18:534][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-02.04.26:985][538]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-02.04.29:569][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-02.04.38:231][212]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-02.04.40:468][346]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-02.04.41:249][391]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-02.04.41:421][400]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-02.04.42:526][466]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-02.04.42:692][476]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-02.04.46:983][733]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-02.04.54:512][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-02.04.54:778][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.07.31-02.04.54:914][198]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyTutorialMap92B7BF194B96907912410594318950B5.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/EnemyTutorialMap.umap'
+[2019.07.31-02.04.56:642][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-02.04.56:859][313]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.31-02.04.56:868][313]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.31-02.04.56:868][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.31-02.04.56:868][313]PIE: New page: PIE session: EnemyTutorialMap (Jul 30, 2019, 12:04:56 PM)
+[2019.07.31-02.04.56:868][313]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EnemyTutorialMap
+[2019.07.31-02.04.56:871][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002589s)
+[2019.07.31-02.04.56:871][313]LogAIModule: Creating AISystem for world EnemyTutorialMap
+[2019.07.31-02.04.56:872][313]LogPlayLevel: PIE: World Init took: (0.000537s)
+[2019.07.31-02.04.56:872][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EnemyTutorialMap.EnemyTutorialMap to /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap (0.003245s)
+[2019.07.31-02.04.56:900][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.07.31-02.04.56:905][313]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.31-02.04.56:923][313]LogInit: FAudioDevice initialized.
+[2019.07.31-02.04.56:958][313]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.31-02.04.56:959][313]LogWorld: Bringing World /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap up for play (max tick rate 60) at 2019.07.30-19.04.56
+[2019.07.31-02.04.56:959][313]LogWorld: Bringing up level for play took: 0.000789
+[2019.07.31-02.04.56:974][313]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (FoolowPlayer) or object (EnemyOneAI_C_0)
+[2019.07.31-02.04.56:974][313]PIE: Play in editor start time for /Game/UEDPIE_0_EnemyTutorialMap -0.018
+[2019.07.31-02.04.56:974][313]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.31-02.05.06:996][914]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.31-02.05.06:996][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.31-02.05.07:028][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.31-02.05.07:028][914]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.31-02.05.07:064][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.31-02.05.07:068][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.07.31-02.05.07:092][915]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.07.31-02.05.13:603][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-02.05.43:886][633]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnemyOnePawn.EnemyOnePawn
+[2019.07.31-02.05.57:641][187]LogSlate: Window 'EnemyOnePawn' being destroyed
+[2019.07.31-02.05.57:646][187]LogSlate: Window 'EnemyOnePawn' being destroyed
+[2019.07.31-02.05.59:123][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-02.05.59:264][280]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnemyOneAI.EnemyOneAI
+[2019.07.31-02.06.34:822][793]BlueprintLog: New page: Compile EnemyOneAI
+[2019.07.31-02.06.35:035][793]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.07.31-02.06.37:988][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyOneAI" FILE="../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOneAI.uasset" SILENT=true
+[2019.07.31-02.06.38:041][968]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyOneAIC4767CAF4A1E6A3E981810AD8C3A5D70.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOneAI.uasset'
+[2019.07.31-02.06.40:086][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-02.06.40:302][103]LogSlate: Window 'EnemyOneAI' being destroyed
+[2019.07.31-02.06.40:306][103]LogSlate: Window 'EnemyOneAI' being destroyed
+[2019.07.31-02.06.41:927][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-02.06.42:198][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.07.31-02.06.42:333][210]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyTutorialMapA12B75334FBC53A847A0E08771127718.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/EnemyTutorialMap.umap'
+[2019.07.31-02.06.45:858][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-02.06.47:857][538]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.31-02.06.47:867][538]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.31-02.06.47:867][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.31-02.06.47:867][538]PIE: New page: PIE session: EnemyTutorialMap (Jul 30, 2019, 12:06:47 PM)
+[2019.07.31-02.06.47:867][538]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EnemyTutorialMap
+[2019.07.31-02.06.47:870][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002491s)
+[2019.07.31-02.06.47:870][538]LogAIModule: Creating AISystem for world EnemyTutorialMap
+[2019.07.31-02.06.47:870][538]LogPlayLevel: PIE: World Init took: (0.000435s)
+[2019.07.31-02.06.47:870][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EnemyTutorialMap.EnemyTutorialMap to /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap (0.003060s)
+[2019.07.31-02.06.47:899][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.07.31-02.06.47:903][538]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.31-02.06.47:918][538]LogInit: FAudioDevice initialized.
+[2019.07.31-02.06.47:953][538]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.31-02.06.47:955][538]LogWorld: Bringing World /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap up for play (max tick rate 60) at 2019.07.30-19.06.47
+[2019.07.31-02.06.47:955][538]LogWorld: Bringing up level for play took: 0.000643
+[2019.07.31-02.06.47:970][538]PIE: Play in editor start time for /Game/UEDPIE_0_EnemyTutorialMap 0.979
+[2019.07.31-02.06.47:971][538]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.31-02.06.54:085][904]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=749.874 Y=238.682 Z=113.191] for [FirstPersonProjectile_C]
+[2019.07.31-02.06.54:699][941]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=742.413 Y=220.254 Z=100.500] for [FirstPersonProjectile_C]
+[2019.07.31-02.06.55:499][989]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=739.612 Y=208.413 Z=94.382] for [FirstPersonProjectile_C]
+[2019.07.31-02.06.56:237][ 33]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=739.592 Y=208.437 Z=94.385] for [FirstPersonProjectile_C]
+[2019.07.31-02.06.57:999][139]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=731.453 Y=217.560 Z=100.736] for [FirstPersonProjectile_C]
+[2019.07.31-02.07.09:082][804]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.31-02.07.09:083][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.31-02.07.09:114][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.31-02.07.09:114][804]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.31-02.07.09:145][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.31-02.07.09:150][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.07.31-02.07.09:190][806]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.07.31-02.07.11:723][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
