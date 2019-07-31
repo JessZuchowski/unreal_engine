@@ -840,3 +840,1024 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.29-22.45.09:521][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000553 seconds (updated 0 objects)
 [2019.07.29-22.45.09:899][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2019.07.29-22.45.24:460][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-00.44.39:527][657]LogSlate: Window 'New Level' being destroyed
+[2019.07.30-00.44.39:553][657]LightingResults: New page: Lighting Build
+[2019.07.30-00.44.39:582][657]MapCheck: New page: Map Check
+[2019.07.30-00.44.39:582][657]LightingResults: New page: Lighting Build
+[2019.07.30-00.44.39:712][657]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2019.07.30-00.44.39:743][657]LogAIModule: Creating AISystem for world Untitled
+[2019.07.30-00.44.39:921][657]LoadErrors: New page: New Map
+[2019.07.30-00.45.28:143][270]LogSlate: Window 'Save Level As' being destroyed
+[2019.07.30-00.45.28:192][270]LogSlate: Took 0.007494 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.30-00.45.28:253][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.07.30-00.45.28:276][270]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyTutorialMapCCBA46A04F005A1A9CAD3B8AC5233697.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/EnemyTutorialMap.umap'
+[2019.07.30-00.45.28:320][270]LogFileHelpers: Saving map 'EnemyTutorialMap' took 0.148
+[2019.07.30-00.45.54:894][114]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.07.30-00.46.09:049][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-00.46.09:464][964]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (41.090 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.30-00.47.37:267][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-00.47.49:074][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-00.48.03:952][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-00.49.16:395][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-00.49.16:481][949]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.30-00.49.16:495][949]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-00.49.16:496][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.30-00.49.16:509][949]PIE: New page: PIE session: EnemyTutorialMap (Jul 29, 2019, 10:49:16 AM)
+[2019.07.30-00.49.16:541][949]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EnemyTutorialMap
+[2019.07.30-00.49.16:546][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004403s)
+[2019.07.30-00.49.16:547][949]LogAIModule: Creating AISystem for world EnemyTutorialMap
+[2019.07.30-00.49.16:548][949]LogPlayLevel: PIE: World Init took: (0.002388s)
+[2019.07.30-00.49.16:548][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EnemyTutorialMap.EnemyTutorialMap to /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap (0.007915s)
+[2019.07.30-00.49.16:572][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.07.30-00.49.16:589][949]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.30-00.49.16:608][949]LogInit: FAudioDevice initialized.
+[2019.07.30-00.49.16:664][949]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.30-00.49.16:675][949]LogWorld: Bringing World /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap up for play (max tick rate 60) at 2019.07.29-17.49.16
+[2019.07.30-00.49.16:677][949]LogWorld: Bringing up level for play took: 0.001671
+[2019.07.30-00.49.16:734][949]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2019.07.30-00.49.16:778][949]PIE: Play in editor start time for /Game/UEDPIE_0_EnemyTutorialMap -0.214
+[2019.07.30-00.49.16:785][949]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-00.49.41:818][448]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-00.49.41:821][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-00.49.41:854][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.30-00.49.41:854][448]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-00.49.41:887][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-00.49.41:891][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.07.30-00.49.41:929][450]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.07.30-00.49.52:013][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-00.50.54:829][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-00.51.23:695][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-00.52.13:340][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-00.53.19:597][595]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.07.30-00.53.45:457][548]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnemyOneAI.EnemyOneAI
+[2019.07.30-00.53.45:918][548]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2019.07.30-00.54.09:694][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (50.080 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.30-00.54.21:769][977]LogSlate: Took 0.008493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.07.30-00.56.00:545][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.07.30-00.56.00:580][ 40]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyTutorialMap_Auto15E54138548161D912BF31F9BBEFEDEBB.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/Autosaves/Game/EnemyTutorialMap_Auto1.umap'
+[2019.07.30-00.56.00:584][ 40]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EnemyTutorialMap' took 0.073
+[2019.07.30-00.56.00:584][ 40]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.073
+[2019.07.30-00.56.00:587][ 40]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/EnemyOneAI] ([1] browsable assets)...
+[2019.07.30-00.56.00:587][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyOneAI]
+[2019.07.30-00.56.00:602][ 40]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyOneAI_Auto1BA22809D43C3234C373234B064806088.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/Autosaves/Game/Blueprints/EnemyOneAI_Auto1.uasset'
+[2019.07.30-00.56.00:604][ 40]LogFileHelpers: Auto-saving content packages took 0.018
+[2019.07.30-00.57.19:375][ 62]LogSlate: Took 0.006363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.07.30-01.01.15:054][ 11]BlueprintLog: New page: Compile EnemyOneAI
+[2019.07.30-01.01.15:252][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.07.30-01.01.17:262][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyOneAI" FILE="../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOneAI.uasset" SILENT=true
+[2019.07.30-01.01.17:282][130]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyOneAI5148FB6E46A1F47A7C211BB5A5D2080E.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOneAI.uasset'
+[2019.07.30-01.01.38:787][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyOneAI" FILE="../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOneAI.uasset" SILENT=true
+[2019.07.30-01.01.38:812][919]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyOneAI5231BEA7487CAB805815C4A8C176756F.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOneAI.uasset'
+[2019.07.30-01.01.40:360][ 11]LogSlate: Window 'EnemyOneAI' being destroyed
+[2019.07.30-01.01.57:407][468]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.07.30-01.02.37:121][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.07.30-01.02.37:123][232]LogMetaData: Removing '/Game/Blueprints/EnemyOnePawn.EnemyOnePawn:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/EnemyOne.PackageMetaData'
+[2019.07.30-01.02.37:123][232]LogMetaData: Removing '/Game/Blueprints/EnemyOnePawn.SKEL_EnemyOnePawn_C' ref from Metadata '/Game/Blueprints/EnemyOne.PackageMetaData'
+[2019.07.30-01.02.37:123][232]LogMetaData: Removing '/Game/Blueprints/EnemyOnePawn.EnemyOnePawn_C' ref from Metadata '/Game/Blueprints/EnemyOne.PackageMetaData'
+[2019.07.30-01.02.37:123][232]LogMetaData: Removing '/Game/Blueprints/EnemyOnePawn.EnemyOnePawn:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/EnemyOne.PackageMetaData'
+[2019.07.30-01.02.37:123][232]LogMetaData: Removing '/Game/Blueprints/EnemyOnePawn.EnemyOnePawn:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/EnemyOne.PackageMetaData'
+[2019.07.30-01.02.37:123][232]LogMetaData: Removing '/Game/Blueprints/EnemyOnePawn.EnemyOnePawn:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/EnemyOne.PackageMetaData'
+[2019.07.30-01.02.37:145][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyOnePawn" FILE="../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOnePawn.uasset" SILENT=true
+[2019.07.30-01.02.37:166][232]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyOnePawn3D863E3749A6256D15C38C88E8B9BFD7.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOnePawn.uasset'
+[2019.07.30-01.02.37:305][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.07.30-01.02.37:334][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.07.30-01.02.37:358][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.07.30-01.03.07:890][547]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnemyOnePawn.EnemyOnePawn
+[2019.07.30-01.03.08:252][548]LogRenderer: Reallocating scene render targets to support 828x628 Format 10 NumSamples 1 (Frame:1).
+[2019.07.30-01.03.30:540][822]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.04.28:370][269]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.04.53:491][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.04.53:673][ 38]LogRenderer: Reallocating scene render targets to support 1232x684 Format 10 NumSamples 1 (Frame:4418).
+[2019.07.30-01.05.52:586][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.06.00:479][807]LogAssetEditorManager: Opening Asset editor for Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2019.07.30-01.06.00:486][807]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.07.30-01.06.00:902][807]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.07.30-01.06.00:922][807]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.30-01.06.00:948][807]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.30-01.06.02:555][896]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.30-01.06.04:144][991]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.30-01.06.05:697][ 82]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.07.30-01.06.05:697][ 82]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.07.30-01.06.05:697][ 82]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.07.30-01.06.05:697][ 82]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.30-01.06.05:697][ 82]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.30-01.06.13:104][525]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.07.30-01.06.13:140][525]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.30-01.06.14:237][587]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.30-01.06.16:604][720]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.30-01.06.19:389][873]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.07.30-01.06.19:389][873]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.07.30-01.06.19:389][873]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.07.30-01.06.19:389][873]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.30-01.06.19:389][873]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.30-01.06.24:520][180]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.07.30-01.06.24:563][181]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.30-01.06.25:648][243]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.30-01.06.28:022][371]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.30-01.06.31:062][531]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.07.30-01.06.31:062][531]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.07.30-01.06.31:062][531]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.07.30-01.06.31:062][531]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.30-01.06.31:062][531]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.30-01.06.37:009][887]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.07.30-01.06.37:058][887]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.30-01.06.37:058][887]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.30-01.06.38:442][961]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.30-01.06.41:323][112]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.30-01.06.43:898][246]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.07.30-01.06.43:898][246]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.07.30-01.06.43:898][246]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.07.30-01.06.43:898][246]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.30-01.06.43:898][246]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.30-01.06.44:905][304]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.07.30-01.06.44:944][304]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.30-01.06.44:950][304]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.30-01.06.46:372][377]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.30-01.06.48:259][477]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.07.30-01.06.48:313][477]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.30-01.06.48:561][488]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.30-01.06.49:927][563]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.30-01.06.52:684][705]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.30-01.06.54:029][772]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.07.30-01.06.54:083][772]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.30-01.06.54:724][803]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.30-01.06.55:922][864]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.30-01.06.56:583][896]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.07.30-01.06.56:637][896]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.30-01.06.57:403][935]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.30-01.06.58:515][994]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.30-01.06.59:126][ 24]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.07.30-01.06.59:183][ 24]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.07.30-01.06.59:205][ 24]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.30-01.06.59:218][ 24]LogSlate: Window 'Color Picker' being destroyed
+[2019.07.30-01.06.59:490][ 39]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.30-01.07.00:941][123]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.30-01.07.03:381][263]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.30-01.07.05:715][397]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.07.30-01.07.05:715][397]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.07.30-01.07.05:715][397]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.07.30-01.07.05:715][397]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.07.30-01.07.05:715][397]MaterialEditorStats: Texture samplers: 3/16
+[2019.07.30-01.07.21:242][327]LogMaterialEditor: Saving and Compiling material BasicShapeMaterial
+[2019.07.30-01.07.23:864][327]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.07.30-01.07.23:989][327]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.07.30-01.07.24:057][327]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.07.30-01.07.24:168][327]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.07.30-01.07.24:328][327]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2019.07.30-01.07.24:354][327]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.07.30-01.07.28:195][327]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.07.30-01.07.28:195][327]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.07.30-01.07.28:199][327]TextureStreamingBuild: Display: Compiling optional shaders took 3.870 seconds.
+[2019.07.30-01.07.28:249][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.07.30-01.07.34:045][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2019.07.30-01.07.34:098][327]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/BasicShapeMaterial30E25D6943423288E3F40DB7464E5C9D.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.07.30-01.07.40:266][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.07.30-01.07.40:401][608]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyTutorialMap_Auto25CFD311E4057FACF8BC260A93CC718A0.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/Autosaves/Game/EnemyTutorialMap_Auto2.umap'
+[2019.07.30-01.07.40:406][608]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EnemyTutorialMap' took 0.174
+[2019.07.30-01.07.40:406][608]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.174
+[2019.07.30-01.07.40:407][608]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/EnemyOnePawn] ([1] browsable assets)...
+[2019.07.30-01.07.40:423][608]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/EnemyOnePawn.EnemyOnePawn]
+[2019.07.30-01.07.40:423][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyOnePawn]
+[2019.07.30-01.07.40:451][608]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyOnePawn_Auto2C32829EE4F411E55F12B8A8899F82966.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/Autosaves/Game/Blueprints/EnemyOnePawn_Auto2.uasset'
+[2019.07.30-01.07.40:452][608]LogFileHelpers: Auto-saving content packages took 0.044
+[2019.07.30-01.08.08:159][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.12.59:696][218]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.14.48:427][524]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.14.57:243][885]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.16.42:028][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.17.56:299][396]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.07.30-01.17.56:299][396]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EnemyTutorialMap' took 0.040
+[2019.07.30-01.17.56:301][396]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/EnemyOnePawn] ([1] browsable assets)...
+[2019.07.30-01.17.56:355][396]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/EnemyOnePawn.EnemyOnePawn]
+[2019.07.30-01.17.56:355][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyOnePawn]
+[2019.07.30-01.17.56:386][396]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyOnePawn_Auto35CD5C6ED439882976BD7D4B30AE74BAB.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/Autosaves/Game/Blueprints/EnemyOnePawn_Auto3.uasset'
+[2019.07.30-01.17.56:388][396]LogFileHelpers: Auto-saving content packages took 0.088
+[2019.07.30-01.20.20:418][873]BlueprintLog: New page: Compile EnemyOnePawn
+[2019.07.30-01.20.20:559][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.07.30-01.20.23:702][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyOnePawn" FILE="../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOnePawn.uasset" SILENT=true
+[2019.07.30-01.20.23:725][ 39]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyOnePawn266781DA41862A5519D1F6A2C618D726.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOnePawn.uasset'
+[2019.07.30-01.20.49:319][983]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.07.30-01.21.16:413][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.21.16:642][434]BlueprintLog: New page: Compile EnemyOnePawn
+[2019.07.30-01.21.16:790][434]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.07.30-01.21.18:340][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyOnePawn" FILE="../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOnePawn.uasset" SILENT=true
+[2019.07.30-01.21.18:362][506]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyOnePawn4DF2D926452540067C4805B291DC9866.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOnePawn.uasset'
+[2019.07.30-01.21.20:502][634]LogSlate: Window 'EnemyOnePawn' being destroyed
+[2019.07.30-01.23.00:913][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.24.28:327][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.24.38:337][249]LogEditorViewport: Clicking Background
+[2019.07.30-01.24.49:882][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.25.27:263][808]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.30-01.25.27:280][808]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.25.27:280][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.30-01.25.27:280][808]PIE: New page: PIE session: EnemyTutorialMap (Jul 29, 2019, 11:25:27 AM)
+[2019.07.30-01.25.27:280][808]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EnemyTutorialMap
+[2019.07.30-01.25.27:285][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005258s)
+[2019.07.30-01.25.27:286][808]LogAIModule: Creating AISystem for world EnemyTutorialMap
+[2019.07.30-01.25.27:286][808]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2019.07.30-01.25.27:286][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EnemyTutorialMap.EnemyTutorialMap to /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap (0.006192s)
+[2019.07.30-01.25.27:318][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.07.30-01.25.27:322][808]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.30-01.25.27:339][808]LogInit: FAudioDevice initialized.
+[2019.07.30-01.25.27:370][808]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.30-01.25.27:371][808]LogWorld: Bringing World /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap up for play (max tick rate 60) at 2019.07.29-18.25.27
+[2019.07.30-01.25.27:371][808]LogWorld: Bringing up level for play took: 0.000458
+[2019.07.30-01.25.27:387][808]PIE: Play in editor start time for /Game/UEDPIE_0_EnemyTutorialMap 0.396
+[2019.07.30-01.25.27:387][808]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.25.32:727][128]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.25.32:727][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-01.25.32:759][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.30-01.25.32:759][128]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.25.32:798][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-01.25.32:801][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.07.30-01.25.32:829][130]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.07.30-01.25.42:776][726]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.25.50:216][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.25.55:110][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.25.59:333][718]LogEditorViewport: Clicking Background
+[2019.07.30-01.26.00:434][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.26.36:933][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.26.37:084][981]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.30-01.26.37:093][981]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.26.37:094][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.30-01.26.37:094][981]PIE: New page: PIE session: EnemyTutorialMap (Jul 29, 2019, 11:26:37 AM)
+[2019.07.30-01.26.37:094][981]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EnemyTutorialMap
+[2019.07.30-01.26.37:096][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002443s)
+[2019.07.30-01.26.37:097][981]LogAIModule: Creating AISystem for world EnemyTutorialMap
+[2019.07.30-01.26.37:097][981]LogPlayLevel: PIE: World Init took: (0.000522s)
+[2019.07.30-01.26.37:097][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EnemyTutorialMap.EnemyTutorialMap to /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap (0.003071s)
+[2019.07.30-01.26.37:123][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.07.30-01.26.37:126][981]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.30-01.26.37:142][981]LogInit: FAudioDevice initialized.
+[2019.07.30-01.26.37:172][981]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.30-01.26.37:174][981]LogWorld: Bringing World /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap up for play (max tick rate 60) at 2019.07.29-18.26.37
+[2019.07.30-01.26.37:174][981]LogWorld: Bringing up level for play took: 0.000574
+[2019.07.30-01.26.37:188][981]PIE: Play in editor start time for /Game/UEDPIE_0_EnemyTutorialMap 0.196
+[2019.07.30-01.26.37:189][981]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.26.43:941][386]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.26.43:941][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-01.26.43:971][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.30-01.26.43:971][386]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.26.44:007][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-01.26.44:010][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.07.30-01.26.44:048][388]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.07.30-01.26.59:765][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.26.59:915][340]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.30-01.26.59:924][340]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.26.59:924][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.30-01.26.59:924][340]PIE: New page: PIE session: EnemyTutorialMap (Jul 29, 2019, 11:26:59 AM)
+[2019.07.30-01.26.59:924][340]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EnemyTutorialMap
+[2019.07.30-01.26.59:926][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002267s)
+[2019.07.30-01.26.59:927][340]LogAIModule: Creating AISystem for world EnemyTutorialMap
+[2019.07.30-01.26.59:927][340]LogPlayLevel: PIE: World Init took: (0.000447s)
+[2019.07.30-01.26.59:927][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EnemyTutorialMap.EnemyTutorialMap to /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap (0.002813s)
+[2019.07.30-01.26.59:955][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.07.30-01.26.59:959][340]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.30-01.26.59:973][340]LogInit: FAudioDevice initialized.
+[2019.07.30-01.27.00:003][340]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.30-01.27.00:004][340]LogWorld: Bringing World /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap up for play (max tick rate 60) at 2019.07.29-18.27.00
+[2019.07.30-01.27.00:004][340]LogWorld: Bringing up level for play took: 0.000745
+[2019.07.30-01.27.00:019][340]PIE: Play in editor start time for /Game/UEDPIE_0_EnemyTutorialMap 1.027
+[2019.07.30-01.27.00:019][340]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.27.07:862][810]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.27.07:862][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-01.27.07:896][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.30-01.27.07:896][810]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.27.07:931][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-01.27.07:934][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.07.30-01.27.07:972][812]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.07.30-01.27.13:179][124]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.27.26:285][910]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.27.39:135][681]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.27.48:948][269]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.27.58:266][821]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.27.59:852][916]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.27.59:887][918]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.28.14:884][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.28.26:657][521]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.07.30-01.28.42:265][457]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.07.30-01.28.45:373][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.28.45:473][649]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.30-01.28.45:483][649]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.28.45:483][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.30-01.28.45:483][649]PIE: New page: PIE session: EnemyTutorialMap (Jul 29, 2019, 11:28:45 AM)
+[2019.07.30-01.28.45:483][649]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EnemyTutorialMap
+[2019.07.30-01.28.45:486][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002426s)
+[2019.07.30-01.28.45:486][649]LogAIModule: Creating AISystem for world EnemyTutorialMap
+[2019.07.30-01.28.45:486][649]LogPlayLevel: PIE: World Init took: (0.000485s)
+[2019.07.30-01.28.45:486][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EnemyTutorialMap.EnemyTutorialMap to /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap (0.003011s)
+[2019.07.30-01.28.45:518][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.07.30-01.28.45:522][649]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.30-01.28.45:537][649]LogInit: FAudioDevice initialized.
+[2019.07.30-01.28.45:570][649]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.30-01.28.45:571][649]LogWorld: Bringing World /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap up for play (max tick rate 60) at 2019.07.29-18.28.45
+[2019.07.30-01.28.45:571][649]LogWorld: Bringing up level for play took: 0.000426
+[2019.07.30-01.28.45:585][649]PIE: Play in editor start time for /Game/UEDPIE_0_EnemyTutorialMap 0.593
+[2019.07.30-01.28.45:585][649]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.29.01:372][595]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.29.01:372][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-01.29.01:405][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.30-01.29.01:405][595]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.29.01:440][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-01.29.01:444][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.07.30-01.29.01:483][597]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.07.30-01.29.03:575][722]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.29.07:400][945]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.29.14:710][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.30.10:102][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.07.30-01.30.10:231][521]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyTutorialMap_Auto48243C78C429AB0BAE5123CAAA68E2840.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/Autosaves/Game/EnemyTutorialMap_Auto4.umap'
+[2019.07.30-01.30.10:235][521]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EnemyTutorialMap' took 0.162
+[2019.07.30-01.30.10:236][521]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.162
+[2019.07.30-01.30.13:189][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.30.27:138][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.30.30:890][757]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.30-01.30.30:899][757]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.30.30:899][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.30-01.30.30:900][757]PIE: New page: PIE session: EnemyTutorialMap (Jul 29, 2019, 11:30:30 AM)
+[2019.07.30-01.30.30:900][757]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EnemyTutorialMap
+[2019.07.30-01.30.30:902][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002768s)
+[2019.07.30-01.30.30:903][757]LogAIModule: Creating AISystem for world EnemyTutorialMap
+[2019.07.30-01.30.30:903][757]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2019.07.30-01.30.30:903][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EnemyTutorialMap.EnemyTutorialMap to /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap (0.003458s)
+[2019.07.30-01.30.30:932][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.07.30-01.30.30:936][757]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.30-01.30.30:951][757]LogInit: FAudioDevice initialized.
+[2019.07.30-01.30.30:983][757]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.30-01.30.30:985][757]LogWorld: Bringing World /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap up for play (max tick rate 60) at 2019.07.29-18.30.30
+[2019.07.30-01.30.30:989][757]LogWorld: Bringing up level for play took: 0.004887
+[2019.07.30-01.30.31:005][757]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (FoolowPlayer) or object (EnemyOneAI_C_0)
+[2019.07.30-01.30.31:005][757]PIE: Play in editor start time for /Game/UEDPIE_0_EnemyTutorialMap 0.013
+[2019.07.30-01.30.31:005][757]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.30.48:010][777]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.30.48:010][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-01.30.48:040][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.30-01.30.48:040][777]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.30.48:074][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-01.30.48:080][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.07.30-01.30.48:119][779]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.07.30-01.31.21:877][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.31.27:801][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.31.34:782][577]LogEditorViewport: Clicking Background
+[2019.07.30-01.31.38:533][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.31.38:649][809]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.30-01.31.38:659][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.31.38:659][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.30-01.31.38:659][809]PIE: New page: PIE session: EnemyTutorialMap (Jul 29, 2019, 11:31:38 AM)
+[2019.07.30-01.31.38:659][809]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EnemyTutorialMap
+[2019.07.30-01.31.38:662][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002779s)
+[2019.07.30-01.31.38:662][809]LogAIModule: Creating AISystem for world EnemyTutorialMap
+[2019.07.30-01.31.38:662][809]LogPlayLevel: PIE: World Init took: (0.000502s)
+[2019.07.30-01.31.38:662][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EnemyTutorialMap.EnemyTutorialMap to /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap (0.003399s)
+[2019.07.30-01.31.38:691][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.07.30-01.31.38:695][809]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.30-01.31.38:709][809]LogInit: FAudioDevice initialized.
+[2019.07.30-01.31.38:736][809]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.30-01.31.38:737][809]LogWorld: Bringing World /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap up for play (max tick rate 60) at 2019.07.29-18.31.38
+[2019.07.30-01.31.38:737][809]LogWorld: Bringing up level for play took: 0.000631
+[2019.07.30-01.31.38:750][809]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (FoolowPlayer) or object (EnemyOneAI_C_0)
+[2019.07.30-01.31.38:750][809]PIE: Play in editor start time for /Game/UEDPIE_0_EnemyTutorialMap -0.241
+[2019.07.30-01.31.38:751][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.32.08:387][586]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.32.08:387][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-01.32.08:416][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.30-01.32.08:416][586]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.32.08:451][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-01.32.08:454][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.07.30-01.32.08:494][588]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.07.30-01.32.23:535][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.32.46:055][832]LogRenderer: Reallocating scene render targets to support 1540x828 Format 10 NumSamples 1 (Frame:96590).
+[2019.07.30-01.32.48:193][957]Cmd: SELECT NONE
+[2019.07.30-01.32.49:653][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.32.53:191][248]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.33.01:227][730]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.33.06:441][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.33.22:383][998]LogEditorViewport: Clicking Background
+[2019.07.30-01.33.25:630][192]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-01.33.40:710][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.33.53:686][872]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.30-01.33.53:695][872]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.33.53:695][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.30-01.33.53:696][872]PIE: New page: PIE session: EnemyTutorialMap (Jul 29, 2019, 11:33:53 AM)
+[2019.07.30-01.33.53:696][872]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EnemyTutorialMap
+[2019.07.30-01.33.53:698][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002548s)
+[2019.07.30-01.33.53:699][872]LogAIModule: Creating AISystem for world EnemyTutorialMap
+[2019.07.30-01.33.53:699][872]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2019.07.30-01.33.53:699][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EnemyTutorialMap.EnemyTutorialMap to /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap (0.003187s)
+[2019.07.30-01.33.53:730][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.07.30-01.33.53:734][872]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.30-01.33.53:749][872]LogInit: FAudioDevice initialized.
+[2019.07.30-01.33.53:774][872]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.30-01.33.53:776][872]LogWorld: Bringing World /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap up for play (max tick rate 60) at 2019.07.29-18.33.53
+[2019.07.30-01.33.53:776][872]LogWorld: Bringing up level for play took: 0.000648
+[2019.07.30-01.33.53:791][872]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (FoolowPlayer) or object (EnemyOneAI_C_0)
+[2019.07.30-01.33.53:791][872]PIE: Play in editor start time for /Game/UEDPIE_0_EnemyTutorialMap 0.8
+[2019.07.30-01.33.53:791][872]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.34.06:412][629]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.34.06:412][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-01.34.06:443][629]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.30-01.34.06:443][629]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.34.06:478][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-01.34.06:481][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.07.30-01.34.06:519][631]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.07.30-01.34.09:837][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.34.17:395][283]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnemyOnePawn.EnemyOnePawn
+[2019.07.30-01.34.49:969][ 40]BlueprintLog: New page: Compile EnemyOnePawn
+[2019.07.30-01.34.50:296][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.07.30-01.34.52:550][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyOnePawn" FILE="../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOnePawn.uasset" SILENT=true
+[2019.07.30-01.34.52:604][166]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyOnePawn949DC9414BBFF3104DE60CBC0A5043CA.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOnePawn.uasset'
+[2019.07.30-01.34.55:702][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.34.55:904][361]LogSlate: Window 'EnemyOnePawn' being destroyed
+[2019.07.30-01.34.57:614][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.34.57:830][471]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.30-01.34.57:859][471]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.34.57:859][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.30-01.34.57:859][471]PIE: New page: PIE session: EnemyTutorialMap (Jul 29, 2019, 11:34:57 AM)
+[2019.07.30-01.34.57:859][471]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EnemyTutorialMap
+[2019.07.30-01.34.57:864][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004496s)
+[2019.07.30-01.34.57:864][471]LogAIModule: Creating AISystem for world EnemyTutorialMap
+[2019.07.30-01.34.57:865][471]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2019.07.30-01.34.57:865][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EnemyTutorialMap.EnemyTutorialMap to /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap (0.005417s)
+[2019.07.30-01.34.57:918][471]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2019.07.30-01.34.57:926][471]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.30-01.34.57:954][471]LogInit: FAudioDevice initialized.
+[2019.07.30-01.34.57:987][471]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.30-01.34.57:990][471]LogWorld: Bringing World /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap up for play (max tick rate 60) at 2019.07.29-18.34.57
+[2019.07.30-01.34.57:990][471]LogWorld: Bringing up level for play took: 0.001139
+[2019.07.30-01.34.58:006][471]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (FoolowPlayer) or object (EnemyOneAI_C_0)
+[2019.07.30-01.34.58:006][471]PIE: Play in editor start time for /Game/UEDPIE_0_EnemyTutorialMap 1.014
+[2019.07.30-01.34.58:006][471]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.35.26:120][154]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.35.26:120][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-01.35.26:154][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.30-01.35.26:154][154]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.35.26:187][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-01.35.26:191][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.07.30-01.35.26:231][156]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.07.30-01.35.31:315][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.36.46:781][ 70]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnemyOnePawn.EnemyOnePawn
+[2019.07.30-01.37.03:121][ 30]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.07.30-01.37.32:986][820]BlueprintLog: New page: Compile EnemyOnePawn
+[2019.07.30-01.37.33:126][820]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.07.30-01.37.37:287][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyOnePawn" FILE="../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOnePawn.uasset" SILENT=true
+[2019.07.30-01.37.37:331][ 66]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyOnePawnE69C99ED4B9089BC3B0FDEBB944D7E11.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOnePawn.uasset'
+[2019.07.30-01.37.39:892][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.37.40:105][231]LogSlate: Window 'EnemyOnePawn' being destroyed
+[2019.07.30-01.37.44:523][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.37.46:902][630]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.30-01.37.46:918][630]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.37.46:918][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.30-01.37.46:918][630]PIE: New page: PIE session: EnemyTutorialMap (Jul 29, 2019, 11:37:46 AM)
+[2019.07.30-01.37.46:919][630]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EnemyTutorialMap
+[2019.07.30-01.37.46:923][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004648s)
+[2019.07.30-01.37.46:924][630]LogAIModule: Creating AISystem for world EnemyTutorialMap
+[2019.07.30-01.37.46:924][630]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2019.07.30-01.37.46:924][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EnemyTutorialMap.EnemyTutorialMap to /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap (0.005636s)
+[2019.07.30-01.37.46:983][630]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.07.30-01.37.46:991][630]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.30-01.37.47:019][630]LogInit: FAudioDevice initialized.
+[2019.07.30-01.37.47:050][630]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.30-01.37.47:051][630]LogWorld: Bringing World /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap up for play (max tick rate 60) at 2019.07.29-18.37.47
+[2019.07.30-01.37.47:053][630]LogWorld: Bringing up level for play took: 0.001174
+[2019.07.30-01.37.47:069][630]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (FoolowPlayer) or object (EnemyOneAI_C_0)
+[2019.07.30-01.37.47:069][630]PIE: Play in editor start time for /Game/UEDPIE_0_EnemyTutorialMap 0.077
+[2019.07.30-01.37.47:070][630]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.37.58:351][306]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.37.58:351][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-01.37.58:382][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.30-01.37.58:382][306]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-01.37.58:415][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-01.37.58:418][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.07.30-01.37.58:456][308]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.07.30-01.38.04:307][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-01.39.02:771][117]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnemyOnePawn.EnemyOnePawn
+[2019.07.30-01.41.50:121][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.07.30-01.41.50:258][395]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyTutorialMap_Auto5052E19D44A7073D36462C5BC7931DEB0.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/Autosaves/Game/EnemyTutorialMap_Auto5.umap'
+[2019.07.30-01.41.50:263][395]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EnemyTutorialMap' took 0.172
+[2019.07.30-01.41.50:263][395]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.172
+[2019.07.30-01.49.55:342][816]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-01.52.17:213][232]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-04.21.11:109][316]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-05.07.48:549][482]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-07.28.27:200][ 54]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-07.35.07:080][216]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-10.22.08:178][482]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-10.48.53:923][137]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-11.26.32:029][710]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-11.27.37:701][897]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-14.54.56:608][287]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-15.24.24:430][475]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-21.37.44:983][ 86]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-22.56.35:294][591]BlueprintLog: New page: Compile EnemyOnePawn
+[2019.07.30-22.56.36:818][591]LogUObjectHash: Compacting FUObjectHashTables data took  35.62ms
+[2019.07.30-22.56.38:931][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyOnePawn" FILE="../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOnePawn.uasset" SILENT=true
+[2019.07.30-22.56.39:056][690]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyOnePawn73E4E33C4F2B71E4FCED17A74CF1C411.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOnePawn.uasset'
+[2019.07.30-22.56.41:303][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-22.56.44:014][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-22.56.50:228][353]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.30-22.56.50:257][353]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-22.56.50:260][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.30-22.56.50:278][353]PIE: New page: PIE session: EnemyTutorialMap (Jul 30, 2019, 8:56:50 AM)
+[2019.07.30-22.56.50:285][353]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EnemyTutorialMap
+[2019.07.30-22.56.50:348][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054266s)
+[2019.07.30-22.56.50:401][353]LogAIModule: Creating AISystem for world EnemyTutorialMap
+[2019.07.30-22.56.50:407][353]LogPlayLevel: PIE: World Init took: (0.057999s)
+[2019.07.30-22.56.50:407][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EnemyTutorialMap.EnemyTutorialMap to /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap (0.121771s)
+[2019.07.30-22.56.50:454][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.07.30-22.56.50:487][353]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.30-22.56.50:521][353]LogInit: FAudioDevice initialized.
+[2019.07.30-22.56.50:592][353]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.30-22.56.50:612][353]LogWorld: Bringing World /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap up for play (max tick rate 60) at 2019.07.30-15.56.50
+[2019.07.30-22.56.50:627][353]LogWorld: Bringing up level for play took: 0.019896
+[2019.07.30-22.56.50:711][353]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (FoolowPlayer) or object (EnemyOneAI_C_0)
+[2019.07.30-22.56.50:713][353]PIE: Play in editor start time for /Game/UEDPIE_0_EnemyTutorialMap -0.278
+[2019.07.30-22.56.50:717][353]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-22.57.02:392][ 51]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-22.57.02:394][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-22.57.02:437][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.30-22.57.02:437][ 51]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-22.57.02:488][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-22.57.02:503][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.07.30-22.57.02:545][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.07.30-22.57.07:849][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-22.57.15:123][548]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-22.58.27:747][566]BlueprintLog: New page: Compile EnemyOnePawn
+[2019.07.30-22.58.28:046][566]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.07.30-22.58.30:950][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyOnePawn" FILE="../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOnePawn.uasset" SILENT=true
+[2019.07.30-22.58.31:010][732]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyOnePawn56E51ABF4BDD6E31D3E3819E6E6052A7.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Content/Blueprints/EnemyOnePawn.uasset'
+[2019.07.30-22.58.33:897][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-22.58.38:596][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-22.58.38:795][185]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.30-22.58.38:819][185]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-22.58.38:819][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.30-22.58.38:819][185]PIE: New page: PIE session: EnemyTutorialMap (Jul 30, 2019, 8:58:38 AM)
+[2019.07.30-22.58.38:822][185]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EnemyTutorialMap
+[2019.07.30-22.58.38:827][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004558s)
+[2019.07.30-22.58.38:828][185]LogAIModule: Creating AISystem for world EnemyTutorialMap
+[2019.07.30-22.58.38:828][185]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2019.07.30-22.58.38:828][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EnemyTutorialMap.EnemyTutorialMap to /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap (0.006205s)
+[2019.07.30-22.58.38:896][185]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2019.07.30-22.58.38:904][185]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.30-22.58.38:932][185]LogInit: FAudioDevice initialized.
+[2019.07.30-22.58.38:964][185]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.30-22.58.38:968][185]LogWorld: Bringing World /Game/UEDPIE_0_EnemyTutorialMap.EnemyTutorialMap up for play (max tick rate 60) at 2019.07.30-15.58.38
+[2019.07.30-22.58.38:968][185]LogWorld: Bringing up level for play took: 0.001235
+[2019.07.30-22.58.38:984][185]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (FoolowPlayer) or object (EnemyOneAI_C_0)
+[2019.07.30-22.58.38:984][185]PIE: Play in editor start time for /Game/UEDPIE_0_EnemyTutorialMap -0.007
+[2019.07.30-22.58.38:984][185]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-22.58.49:531][814]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-22.58.49:531][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-22.58.49:565][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.30-22.58.49:565][814]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap' with GeneratedClass '/Game/EnemyTutorialMap.EnemyTutorialMap_C' with ClassGeneratedBy '/Game/EnemyTutorialMap.EnemyTutorialMap:PersistentLevel.EnemyTutorialMap'
+[2019.07.30-22.58.49:599][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-22.58.49:605][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.07.30-22.58.49:632][815]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.07.30-22.59.13:723][260]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-22.59.13:776][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.07.30-22.59.13:938][260]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/EnemyTutorialMap_Auto6C704932543F0607C242D0CBA9B987243.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/FirstPersonTutorial/Saved/Autosaves/Game/EnemyTutorialMap_Auto6.umap'
+[2019.07.30-22.59.13:958][260]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EnemyTutorialMap' took 0.215
+[2019.07.30-22.59.13:958][260]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.215
+[2019.07.30-23.04.12:881][ 71]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.13:382][ 72]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.15:162][122]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.15:665][123]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.16:167][124]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.17:225][128]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.17:726][129]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.20:304][172]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.22:939][220]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.28:021][272]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.31:112][311]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.31:614][312]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.33:189][350]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.35:243][355]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.40:407][407]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.42:003][414]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.45:163][462]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.46:670][466]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.47:172][467]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.49:747][509]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.50:248][510]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.51:776][547]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.52:276][548]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.53:811][580]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.54:862][587]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.04.57:400][630]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.00:582][681]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.03:154][722]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.05:179][753]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.08:407][776]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.16:169][839]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.16:671][840]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.20:287][885]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.21:800][889]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.25:369][900]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.25:873][901]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.26:374][902]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.27:901][933]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.28:403][934]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.29:935][972]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.30:438][973]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.32:971][ 12]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.33:472][ 13]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.35:020][ 18]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.38:146][ 69]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.38:648][ 70]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.41:828][114]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.44:419][155]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.44:930][156]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.46:445][163]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.48:522][197]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.49:023][198]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.49:524][199]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.51:609][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.54:755][263]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.05.55:257][264]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.01:500][321]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.08:374][390]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.09:470][395]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.12:553][440]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.14:633][483]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.20:430][547]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.20:932][548]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.23:003][584]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.27:236][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.28:773][666]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.29:276][667]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.31:862][712]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.33:443][750]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.33:946][751]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.38:698][808]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.40:226][839]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.40:728][840]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.41:229][841]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.42:754][873]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.45:827][888]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.49:434][904]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.49:935][905]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.51:957][938]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.53:983][976]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.06.54:485][977]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.05:662][362]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.06:663][364]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.08:251][370]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.10:893][415]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.13:415][424]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.13:916][425]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.15:940][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.20:576][511]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.21:078][512]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.23:652][554]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.24:671][558]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.27:724][567]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.28:225][568]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.31:313][609]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.33:419][625]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.33:922][626]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.36:478][633]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.40:089][645]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.43:755][693]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.45:327][731]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.45:830][732]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.50:014][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.50:517][787]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.52:545][819]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.53:644][824]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.54:147][825]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.57:732][867]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.07.59:856][883]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.04:005][933]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.05:579][965]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.06:673][970]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.09:847][ 21]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.10:894][ 28]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.12:919][ 66]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.13:424][ 67]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.14:951][ 98]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.16:973][107]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.21:144][155]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.23:743][197]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.25:258][204]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.29:429][244]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.29:930][245]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.36:161][308]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.36:663][309]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.40:824][366]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.42:382][372]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.42:883][373]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.44:414][406]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.44:914][407]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.47:000][451]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.47:501][452]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.48:596][457]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.51:644][498]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.54:251][513]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.56:277][545]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.08.59:352][563]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.04:957][606]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.05:459][607]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.07:507][613]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.08:009][614]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.10:036][649]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.14:709][699]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.15:211][700]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.17:294][740]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.17:803][742]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.19:309][746]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.22:426][759]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.24:447][795]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.27:617][848]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.32:947][918]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.36:043][963]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.38:657][973]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.42:424][ 33]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.44:447][ 71]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.46:522][109]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.47:024][110]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.51:737][162]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.55:314][203]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.57:337][241]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.09.59:371][275]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.00:896][312]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.01:397][313]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.02:967][351]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.03:470][352]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.05:491][385]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.09:118][436]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.10:690][468]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.11:741][472]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.12:242][473]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.15:362][521]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.17:884][561]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.18:386][562]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.20:954][602]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.23:474][642]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.27:576][692]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.28:078][693]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.30:250][733]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.33:866][780]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.35:369][784]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.40:563][835]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.42:090][864]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.44:105][870]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.44:608][871]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.45:122][873]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.47:268][881]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.48:801][912]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.50:361][921]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.52:874][928]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.54:466][934]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.57:045][973]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.59:070][ 11]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.10.59:573][ 12]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.02:119][ 50]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.06:393][ 74]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.08:481][113]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.10:005][148]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.10:506][149]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.12:079][185]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.14:181][193]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.16:811][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.17:321][241]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.19:444][259]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.19:947][260]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.21:975][292]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.24:988][301]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.25:489][302]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.29:098][347]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.30:607][351]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.31:108][352]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.33:183][390]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.35:297][405]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.37:422][439]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.38:949][469]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.43:647][494]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.47:794][544]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.49:820][580]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.50:322][581]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.52:348][613]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.52:849][614]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.11.56:081][671]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.00:219][722]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.01:816][728]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.05:489][785]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.05:990][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.07:563][822]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.08:067][823]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.08:568][824]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.13:271][882]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.15:393][916]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.18:019][965]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.19:520][969]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.23:599][ 14]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.24:101][ 15]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.26:174][ 49]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.28:197][ 87]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.29:771][119]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.30:770][121]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.33:851][166]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.37:023][208]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.37:526][209]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.40:673][256]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.42:181][260]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.42:682][261]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.44:765][299]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.46:374][313]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.46:883][315]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.47:392][317]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.47:896][318]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.49:983][355]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.52:595][371]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.53:096][372]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.55:121][405]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.56:654][443]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.57:156][444]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.59:180][478]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.12.59:681][479]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.02:831][528]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.03:340][530]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.03:849][532]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.04:353][533]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.04:855][534]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.06:382][566]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.07:891][570]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.10:977][617]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.11:480][618]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.11:981][619]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.14:004][652]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.18:722][711]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.19:223][712]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.22:347][762]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.24:369][800]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.25:896][832]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.28:906][839]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.29:979][849]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.31:013][853]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.31:514][854]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.36:818][921]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.37:319][922]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.39:942][967]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.44:585][ 19]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.45:087][ 20]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.46:620][ 51]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.47:616][ 53]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.49:697][ 96]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.50:198][ 97]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.50:699][ 98]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.52:232][132]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.13.55:896][153]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.00:043][206]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.03:663][247]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.04:166][248]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.04:667][249]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.08:312][294]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.10:335][332]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.10:836][333]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.13:982][378]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.15:513][414]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.16:612][419]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.20:801][472]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.22:824][510]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.23:326][511]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.26:461][561]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.29:112][580]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.31:692][618]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.33:776][661]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.35:308][691]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.36:959][699]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.37:461][700]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.42:649][757]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.44:238][763]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.48:949][824]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.50:474][859]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.50:975][860]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.53:060][897]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.56:717][917]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.57:218][918]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.14.59:785][958]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.03:424][  4]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.05:446][ 36]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.10:143][121]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.12:233][160]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.19:378][215]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.26:607][312]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.29:721][353]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.31:743][386]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.34:317][432]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.34:820][433]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.36:392][464]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.38:448][469]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.39:498][473]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.39:999][474]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.42:021][506]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.45:205][555]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.48:301][596]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.50:904][614]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.51:405][615]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.52:939][647]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.53:987][654]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.57:025][692]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.15.58:607][698]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.16.01:191][740]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.20.59:131][485]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.04:723][563]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.05:224][564]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.07:272][570]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.07:773][571]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.11:419][621]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.12:942][658]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.13:444][659]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.13:946][660]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.18:648][720]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.19:150][721]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.22:794][771]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.24:317][808]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.24:821][809]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.25:323][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.26:846][843]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.30:462][862]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.33:045][902]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.35:070][940]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.35:574][941]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.38:163][982]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.41:299][ 31]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.42:893][ 38]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.44:980][ 77]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.46:511][114]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.47:013][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.49:590][154]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.50:091][155]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.52:120][191]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.52:621][192]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.54:646][230]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.55:149][231]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.56:677][261]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.21.58:689][269]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.01:265][310]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.01:766][311]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.03:794][346]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.04:296][347]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.06:881][394]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.07:383][395]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.09:471][432]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.12:075][450]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.12:576][451]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.14:162][486]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.19:197][498]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.20:785][504]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.23:369][544]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.23:871][545]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.25:955][589]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.26:456][590]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.29:546][630]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.30:613][639]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.31:122][641]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.31:624][642]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.33:651][673]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.35:680][711]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.37:727][748]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.38:777][752]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.39:279][753]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.40:804][782]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.41:306][783]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.43:849][816]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.44:350][817]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.45:922][855]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.46:425][856]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.49:012][898]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.51:085][912]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.53:159][920]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.53:660][921]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.55:692][951]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.56:195][952]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.56:697][953]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.22.59:319][  1]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.08:170][ 68]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.09:266][ 73]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.11:295][104]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.12:856][113]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.14:987][157]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.15:491][158]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.15:992][159]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.20:135][212]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.21:134][214]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.23:806][260]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.24:307][261]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.26:335][299]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.26:836][300]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.29:408][339]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.32:041][388]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.33:565][420]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.36:238][443]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.36:742][444]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.38:316][476]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.39:316][478]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.41:341][512]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.41:843][513]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.44:427][560]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.49:132][620]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.54:352][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.54:853][666]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.57:425][709]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.23.57:927][710]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.24.00:048][753]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.07.30-23.24.05:286][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
