@@ -1,0 +1,2 @@
+C:\Users\jessz\codefellows\post\unreal_engine\SecondGameTutorial\Intermediate\Build\Win64\UE4Editor\Development\SecondGameTutorial\Definitions.SecondGameTutorial.h
+c:\users\jessz\codefellows\post\unreal_engine\secondgametutorial\source\secondgametutorial\SecondGameTutorial.h
