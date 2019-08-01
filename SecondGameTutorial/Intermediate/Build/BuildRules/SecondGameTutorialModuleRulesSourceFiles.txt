@@ -1,0 +1,3 @@
+C:\Users\jessz\codefellows\post\unreal_engine\SecondGameTutorial\Source\SecondGameTutorial\SecondGameTutorial.Build.cs
+C:\Users\jessz\codefellows\post\unreal_engine\SecondGameTutorial\Source\SecondGameTutorial.Target.cs
+C:\Users\jessz\codefellows\post\unreal_engine\SecondGameTutorial\Source\SecondGameTutorialEditor.Target.cs
