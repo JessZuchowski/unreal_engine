@@ -1,0 +1,5 @@
+C:\Users\jessz\codefellows\post\unreal_engine\SecondGameTutorial\Intermediate\Build\Win64\UE4Editor\Development\SecondGameTutorial\Definitions.SecondGameTutorial.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\jessz\codefellows\post\unreal_engine\SecondGameTutorial\Source\SecondGameTutorial/EnemyOne.h
+c:\users\jessz\codefellows\post\unreal_engine\secondgametutorial\intermediate\build\win64\ue4editor\inc\secondgametutorial\EnemyOne.generated.h

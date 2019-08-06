@@ -7,9 +7,13 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\jessz\codefellows\post\unreal_engine\SecondGameTutorial\Intermediate\Build\Win64\SecondGameTutorialEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\jessz\codefellows\post\unreal_engine\SecondGameTutorial\Intermediate\Build\Win64\UE4Editor\Development\SecondGameTutorial\BaseEnemyOne.cpp.obj"
+"C:\Users\jessz\codefellows\post\unreal_engine\SecondGameTutorial\Intermediate\Build\Win64\UE4Editor\Development\SecondGameTutorial\EnemyOne.cpp.obj"
 "C:\Users\jessz\codefellows\post\unreal_engine\SecondGameTutorial\Intermediate\Build\Win64\UE4Editor\Development\SecondGameTutorial\FPSCharacter.cpp.obj"
 "C:\Users\jessz\codefellows\post\unreal_engine\SecondGameTutorial\Intermediate\Build\Win64\UE4Editor\Development\SecondGameTutorial\SecondGameTutorial.cpp.obj"
 "C:\Users\jessz\codefellows\post\unreal_engine\SecondGameTutorial\Intermediate\Build\Win64\UE4Editor\Development\SecondGameTutorial\SecondGameTutorialGameModeBase.cpp.obj"
+"C:\Users\jessz\codefellows\post\unreal_engine\SecondGameTutorial\Intermediate\Build\Win64\UE4Editor\Development\SecondGameTutorial\BaseEnemyOne.gen.cpp.obj"
+"C:\Users\jessz\codefellows\post\unreal_engine\SecondGameTutorial\Intermediate\Build\Win64\UE4Editor\Development\SecondGameTutorial\EnemyOne.gen.cpp.obj"
 "C:\Users\jessz\codefellows\post\unreal_engine\SecondGameTutorial\Intermediate\Build\Win64\UE4Editor\Development\SecondGameTutorial\FPSCharacter.gen.cpp.obj"
 "C:\Users\jessz\codefellows\post\unreal_engine\SecondGameTutorial\Intermediate\Build\Win64\UE4Editor\Development\SecondGameTutorial\SecondGameTutorial.init.gen.cpp.obj"
 "C:\Users\jessz\codefellows\post\unreal_engine\SecondGameTutorial\Intermediate\Build\Win64\UE4Editor\Development\SecondGameTutorial\SecondGameTutorialGameModeBase.gen.cpp.obj"
