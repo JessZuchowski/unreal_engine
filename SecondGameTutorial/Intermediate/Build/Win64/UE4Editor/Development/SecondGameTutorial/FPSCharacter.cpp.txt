@@ -5,3 +5,5 @@ C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFra
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
 C:\Users\jessz\codefellows\post\unreal_engine\SecondGameTutorial\Intermediate\Build\Win64\UE4Editor\Inc\SecondGameTutorial\FPSCharacter.generated.h
+c:\users\jessz\codefellows\post\unreal_engine\secondgametutorial\source\secondgametutorial\EnemyOne.h
+C:\Users\jessz\codefellows\post\unreal_engine\SecondGameTutorial\Intermediate\Build\Win64\UE4Editor\Inc\SecondGameTutorial\EnemyOne.generated.h

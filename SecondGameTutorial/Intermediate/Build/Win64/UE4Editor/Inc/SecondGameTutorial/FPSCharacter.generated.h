@@ -13,8 +13,28 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define SECONDGAMETUTORIAL_FPSCharacter_generated_h
 
-#define SecondGameTutorial_Source_SecondGameTutorial_FPSCharacter_h_12_RPC_WRAPPERS
-#define SecondGameTutorial_Source_SecondGameTutorial_FPSCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define SecondGameTutorial_Source_SecondGameTutorial_FPSCharacter_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execfireWeapon) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->fireWeapon(); \
+		P_NATIVE_END; \
+	}
+
+
+#define SecondGameTutorial_Source_SecondGameTutorial_FPSCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execfireWeapon) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->fireWeapon(); \
+		P_NATIVE_END; \
+	}
+
+
 #define SecondGameTutorial_Source_SecondGameTutorial_FPSCharacter_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAFPSCharacter(); \

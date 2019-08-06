@@ -15,9 +15,17 @@ public:
 	// Sets default values for this character's properties
 	AFPSCharacter();
 
+	//set weapon range global variable
+	UPROPERTY(EditAnywhere, Category = "Weapon")
+		float weaponRange{1000};
+
+	UFUNCTION(BlueprintCallable, Category = "Weapon")
+		void fireWeapon();
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
+	FHitResult instantShot();
 
 public:	
 	// Called every frame
