@@ -49,18 +49,12 @@
     <ClInclude Include="..\..\Source\SecondGameTutorial\EnemyOne.h">
       <Filter>Source\SecondGameTutorial</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Source\SecondGameTutorial\BaseEnemyOne.h">
-      <Filter>Source\SecondGameTutorial</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Source\SecondGameTutorial\FPSCharacter.cpp">
       <Filter>Source\SecondGameTutorial</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\SecondGameTutorial\EnemyOne.cpp">
-      <Filter>Source\SecondGameTutorial</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\SecondGameTutorial\BaseEnemyOne.cpp">
       <Filter>Source\SecondGameTutorial</Filter>
     </ClCompile>
   </ItemGroup>

@@ -371,11 +371,9 @@
     <None Include="..\..\Config\DefaultEngine.ini" />
     <None Include="..\..\Config\DefaultGame.ini" />
     <None Include="..\..\Source\SecondGameTutorial\SecondGameTutorial.Build.cs" />
-    <ClCompile Include="..\..\Source\SecondGameTutorial\BaseEnemyOne.cpp" />
     <ClCompile Include="..\..\Source\SecondGameTutorial\EnemyOne.cpp" />
     <ClCompile Include="..\..\Source\SecondGameTutorial\FPSCharacter.cpp" />
     <ClCompile Include="..\..\Source\SecondGameTutorial\SecondGameTutorial.cpp" />
-    <ClInclude Include="..\..\Source\SecondGameTutorial\BaseEnemyOne.h" />
     <ClInclude Include="..\..\Source\SecondGameTutorial\EnemyOne.h" />
     <ClInclude Include="..\..\Source\SecondGameTutorial\FPSCharacter.h" />
     <ClInclude Include="..\..\Source\SecondGameTutorial\SecondGameTutorial.h" />
