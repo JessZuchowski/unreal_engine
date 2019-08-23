@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CoinCollector.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{CFBE417E-DC71-4D50-BDD7-A1B8C075B8B9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CoinCollector.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CoinCollectorEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{266AFF56-3F56-43FF-B752-9AC56D6304B4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CoinCollector">
+      <UniqueIdentifier>{9542365B-8EEF-4161-87FF-CF0B6FD5ECFB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CoinCollector\BaseCoin.cpp">
+      <Filter>Source\CoinCollector</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoinCollector\BaseCoin.h">
+      <Filter>Source\CoinCollector</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CoinCollector\BasePlayer.cpp">
+      <Filter>Source\CoinCollector</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoinCollector\BasePlayer.h">
+      <Filter>Source\CoinCollector</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\CoinCollector\CoinCollector.Build.cs">
+      <Filter>Source\CoinCollector</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CoinCollector\CoinCollector.cpp">
+      <Filter>Source\CoinCollector</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoinCollector\CoinCollector.h">
+      <Filter>Source\CoinCollector</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
