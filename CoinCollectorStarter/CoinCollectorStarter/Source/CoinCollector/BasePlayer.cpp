@@ -9,6 +9,15 @@ ABasePlayer::ABasePlayer()
  	// Set this pawn to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
+	//Initialize Components
+	Mesh = CreateDefaultSubobject<UStaticMeshComponent>("Mesh");
+	SpringArm = CreateDefaultSubobject<USpringArmComponent>("SpringArm");
+	Camera = CreateDefaultSubobject<UCameraComponent>("Camera");
+
+	//Set heirarchy of components
+	RootComponent = Mesh;
+	SpringArm-> SetupAttachment(Mesh);
+	Camera-> SetupAttachment(SpringArm);
 }
 
 // Called when the game starts or when spawned
