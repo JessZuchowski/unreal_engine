@@ -29,6 +29,7 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
+	//component variables
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
 	UStaticMeshComponent* Mesh;
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
@@ -36,4 +37,9 @@ public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
 	UCameraComponent* Camera;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		float MovementForce;
+	//movement function declarations
+	void MoveUp(float Value);
+	void MoveRight(float Value);
 };
