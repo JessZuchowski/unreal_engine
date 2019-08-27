@@ -35,6 +35,10 @@ void EmptyLinkFunctionForGeneratedCodeBasePlayer() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
 #if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_MovementForce_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_MovementForce;
+#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Camera_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_Camera;
@@ -62,6 +66,13 @@ void EmptyLinkFunctionForGeneratedCodeBasePlayer() {}
 	};
 #endif
 #if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ABasePlayer_Statics::NewProp_MovementForce_MetaData[] = {
+		{ "Category", "BasePlayer" },
+		{ "ModuleRelativePath", "BasePlayer.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ABasePlayer_Statics::NewProp_MovementForce = { "MovementForce", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ABasePlayer, MovementForce), METADATA_PARAMS(Z_Construct_UClass_ABasePlayer_Statics::NewProp_MovementForce_MetaData, ARRAY_COUNT(Z_Construct_UClass_ABasePlayer_Statics::NewProp_MovementForce_MetaData)) };
+#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ABasePlayer_Statics::NewProp_Camera_MetaData[] = {
 		{ "Category", "BasePlayer" },
 		{ "EditInline", "true" },
@@ -82,10 +93,12 @@ void EmptyLinkFunctionForGeneratedCodeBasePlayer() {}
 		{ "Category", "BasePlayer" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "BasePlayer.h" },
+		{ "ToolTip", "component variables" },
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ABasePlayer_Statics::NewProp_Mesh = { "Mesh", nullptr, (EPropertyFlags)0x00100000000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ABasePlayer, Mesh), Z_Construct_UClass_UStaticMeshComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ABasePlayer_Statics::NewProp_Mesh_MetaData, ARRAY_COUNT(Z_Construct_UClass_ABasePlayer_Statics::NewProp_Mesh_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ABasePlayer_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABasePlayer_Statics::NewProp_MovementForce,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABasePlayer_Statics::NewProp_Camera,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABasePlayer_Statics::NewProp_SpringArm,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABasePlayer_Statics::NewProp_Mesh,
@@ -117,7 +130,7 @@ void EmptyLinkFunctionForGeneratedCodeBasePlayer() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ABasePlayer, 524270680);
+	IMPLEMENT_CLASS(ABasePlayer, 481761271);
 	template<> COINCOLLECTOR_API UClass* StaticClass<ABasePlayer>()
 	{
 		return ABasePlayer::StaticClass();
