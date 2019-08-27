@@ -1256,3 +1256,129 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.27-01.13.01:416][246]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
 [2019.08.27-01.13.01:515][246]LogContentBrowser: Native class hierarchy populated in 0.0460 seconds. Added 2735 classes and 663 folders.
 [2019.08.27-01.13.01:573][246]Display: HotReload took  1.7s.
+[2019.08.27-01.24.05:881][916]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.08.27-01.24.25:252][ 44]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CoinCollector/Blueprints/BP_Player.BP_Player
+[2019.08.27-01.24.26:649][ 44]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 121 classes and 0 folders.
+[2019.08.27-01.24.28:668][ 45]LogRenderer: Reallocating scene render targets to support 828x592 Format 10 NumSamples 1 (Frame:1).
+[2019.08.27-01.24.42:767][730]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (36.846 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.27-01.26.28:950][729]LogSlate: Took 0.008377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.27-01.26.41:268][435]LogMaterial: Display: Missing cached shader map for material M_PlayerBase, compiling. 
+[2019.08.27-01.26.41:378][435]LogStaticMesh: Building static mesh SM_Sphere...
+[2019.08.27-01.26.41:405][435]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2019.08.27-01.26.41:439][435]LogStaticMesh: Built static mesh [0.06s] /Game/CoinCollector/Meshes/SM_Sphere.SM_Sphere
+[2019.08.27-01.26.41:484][435]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.08.27-01.30.03:479][179]BlueprintLog: New page: Compile BP_Player
+[2019.08.27-01.30.04:213][179]LogUObjectHash: Compacting FUObjectHashTables data took  12.24ms
+[2019.08.27-01.30.59:179][423]LogRenderer: Reallocating scene render targets to support 1244x592 Format 10 NumSamples 1 (Frame:55948).
+[2019.08.27-01.31.57:679][882]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.27-01.32.27:374][550]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.27-01.32.27:442][550]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/CoinCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.08.27-01.32.27:447][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.27-01.32.27:478][550]PIE: New page: PIE session: TutorialMap (Aug 26, 2019, 11:32:27 AM)
+[2019.08.27-01.32.27:542][550]LogPlayLevel: Creating play world package: /Game/CoinCollector/Maps/UEDPIE_0_TutorialMap
+[2019.08.27-01.32.27:622][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079305s)
+[2019.08.27-01.32.27:636][550]LogAIModule: Creating AISystem for world TutorialMap
+[2019.08.27-01.32.27:650][550]LogPlayLevel: PIE: World Init took: (0.028051s)
+[2019.08.27-01.32.27:654][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CoinCollector/Maps/TutorialMap.TutorialMap to /Game/CoinCollector/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.112313s)
+[2019.08.27-01.32.27:706][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.08.27-01.32.27:732][550]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.27-01.32.27:763][550]LogInit: FAudioDevice initialized.
+[2019.08.27-01.32.27:863][550]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.08.27-01.32.27:899][550]LogWorld: Bringing World /Game/CoinCollector/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2019.08.26-18.32.27
+[2019.08.27-01.32.27:910][550]LogWorld: Bringing up level for play took: 0.022210
+[2019.08.27-01.32.27:964][550]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.08.27-01.32.27:971][550]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.08.27-01.32.27:973][550]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 20 classes and 0 folders.
+[2019.08.27-01.32.27:990][550]PIE: Play in editor start time for /Game/CoinCollector/Maps/UEDPIE_0_TutorialMap -0.104
+[2019.08.27-01.32.28:002][550]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/CoinCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.08.27-01.32.35:952][  4]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/CoinCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.08.27-01.32.35:957][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-01.32.35:998][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.27-01.32.36:002][  4]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/CoinCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.08.27-01.32.36:075][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-01.32.36:140][  4]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2019.08.27-01.32.36:169][  5]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.08.27-01.34.14:855][423]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.08.27-01.34.14:855][423]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CoinCollector/Maps/TutorialMap' took 0.060
+[2019.08.27-01.34.14:862][423]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CoinCollector/Blueprints/GM_Tutorial] ([1] browsable assets)...
+[2019.08.27-01.34.14:862][423]OBJ SavePackage: Finished generating thumbnails for package [/Game/CoinCollector/Blueprints/GM_Tutorial]
+[2019.08.27-01.34.14:930][423]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/CoinCollectorStarter/CoinCollectorStarter/Saved/GM_Tutorial_Auto1C8F931D94F1E40AF3BC9CDBDA685AAE5.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/CoinCollectorStarter/CoinCollectorStarter/Saved/Autosaves/Game/CoinCollector/Blueprints/GM_Tutorial_Auto1.uasset'
+[2019.08.27-01.34.14:935][423]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CoinCollector/Blueprints/BP_Player] ([1] browsable assets)...
+[2019.08.27-01.34.14:953][423]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CoinCollector/Blueprints/BP_Player.BP_Player]
+[2019.08.27-01.34.14:953][423]OBJ SavePackage: Finished generating thumbnails for package [/Game/CoinCollector/Blueprints/BP_Player]
+[2019.08.27-01.34.14:989][423]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/CoinCollectorStarter/CoinCollectorStarter/Saved/BP_Player_Auto1F1D5A8DB465A917729D8C28098062C7F.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/CoinCollectorStarter/CoinCollectorStarter/Saved/Autosaves/Game/CoinCollector/Blueprints/BP_Player_Auto1.uasset'
+[2019.08.27-01.34.14:991][423]LogFileHelpers: Auto-saving content packages took 0.134
+[2019.08.27-01.39.15:055][194]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.39.18:312][249]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.39.18:814][250]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.39.21:988][292]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.39.23:006][296]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.39.23:510][297]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.39.26:536][332]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.39.37:723][390]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.39.39:737][397]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.39.40:238][398]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.39.43:861][437]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.39.44:362][438]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.39.49:031][478]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.39.49:532][479]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.39.54:724][547]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.39.57:803][584]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.39.58:316][586]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.39.59:315][588]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.39.59:816][589]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.03:435][628]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.13:002][734]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.13:504][735]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.16:082][770]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.18:659][801]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.19:159][802]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.26:530][853]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.31:635][922]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.32:640][924]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.34:738][932]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.35:240][933]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.37:266][967]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.37:768][968]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.41:958][ 11]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.42:959][ 13]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.43:461][ 14]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.44:986][ 47]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.45:487][ 48]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.51:141][119]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.51:643][120]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.55:247][159]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.40.55:748][160]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.07:657][273]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.13:970][322]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.14:472][323]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.17:555][355]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.21:098][366]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.21:601][367]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.25:659][435]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.26:161][436]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.28:738][468]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.29:240][469]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.38:469][570]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.38:970][571]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.41:549][605]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.43:578][642]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.46:162][673]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.46:663][674]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.50:295][713]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.53:897][750]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.55:911][756]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.56:412][757]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.58:986][793]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.41.59:488][794]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.42.03:570][832]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.42.07:140][870]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.42.07:641][871]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.42.11:859][909]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.42.12:360][910]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.42.15:483][946]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.42.15:984][947]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.42.19:088][ 11]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.42.23:827][ 28]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.42.24:329][ 29]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.27-01.42.26:455][ 64]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
