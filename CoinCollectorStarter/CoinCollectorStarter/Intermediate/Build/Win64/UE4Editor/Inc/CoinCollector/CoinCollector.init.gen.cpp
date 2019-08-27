@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeCoinCollector_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xB1367760,
+				0x6041741C,
 				0x65E3EE0E,
 				METADATA_PARAMS(nullptr, 0)
 			};

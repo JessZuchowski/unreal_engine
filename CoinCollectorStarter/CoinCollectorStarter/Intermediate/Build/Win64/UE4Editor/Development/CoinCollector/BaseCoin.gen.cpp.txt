@@ -1,5 +1,5 @@
-C:\Users\jessz\codefellows\post\CoinCollectorStarter\CoinCollectorStarter\Intermediate\Build\Win64\UE4Editor\Development\CoinCollector\Definitions.CoinCollector.h
+C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\Intermediate\Build\Win64\UE4Editor\Development\CoinCollector\Definitions.CoinCollector.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\jessz\codefellows\post\CoinCollectorStarter\CoinCollectorStarter\Source\CoinCollector/BaseCoin.h
-c:\users\jessz\codefellows\post\coincollectorstarter\coincollectorstarter\intermediate\build\win64\ue4editor\inc\coincollector\BaseCoin.generated.h
+C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\Source\CoinCollector/BaseCoin.h
+c:\users\jessz\codefellows\post\unreal_engine\coincollectorstarter\coincollectorstarter\intermediate\build\win64\ue4editor\inc\coincollector\BaseCoin.generated.h
