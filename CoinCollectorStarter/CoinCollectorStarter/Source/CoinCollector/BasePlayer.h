@@ -39,7 +39,15 @@ public:
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		float MovementForce;
+
 	//movement function declarations
 	void MoveUp(float Value);
 	void MoveRight(float Value);
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		float JumpImpulse;
+
+	UFUNCTION(BlueprintImplementableEvent)
+		void Jump();
 };
+

@@ -1,16 +1,10 @@
-﻿  Creating makefile for CoinCollectorEditor (ini files are newer than makefile)
-  Parsing headers for CoinCollectorEditor
+﻿  Parsing headers for CoinCollectorEditor
     Running UnrealHeaderTool "C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\CoinCollector.uproject" "C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\Intermediate\Build\Win64\CoinCollectorEditor\Development\CoinCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for CoinCollectorEditor in 21.716009 seconds
+  Reflection code generated for CoinCollectorEditor in 21.7860284 seconds
   Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 6 actions with 8 processes...
-    [1/6] CoinCollector.init.gen.cpp
-    [2/6] BasePlayer.cpp
-    [3/6] BasePlayer.gen.cpp
-    [4/6] UE4Editor-CoinCollector-0003.lib
+  Building 3 actions with 8 processes...
+    [1/3] UE4Editor-CoinCollector-0003.dll
+LINK : fatal error LNK1104: cannot open file 'C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\Binaries\Win64\UE4Editor-CoinCollector-0003.dll'
+    [2/3] UE4Editor-CoinCollector-0003.lib
        Creating library C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\Intermediate\Build\Win64\UE4Editor\Development\CoinCollector\UE4Editor-CoinCollector-0003.lib and object C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\Intermediate\Build\Win64\UE4Editor\Development\CoinCollector\UE4Editor-CoinCollector-0003.exp
-    [5/6] UE4Editor-CoinCollector-0003.dll
-       Creating library C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\Intermediate\Build\Win64\UE4Editor\Development\CoinCollector\UE4Editor-CoinCollector-0003.suppressed.lib and object C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\Intermediate\Build\Win64\UE4Editor\Development\CoinCollector\UE4Editor-CoinCollector-0003.suppressed.exp
-    [6/6] CoinCollectorEditor.target
-  Total time in Parallel executor: 14.63 seconds
-  Total execution time: 40.97 seconds
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3075: The command ""C:\Program Files\Epic Games\UE_4.22\Engine\Build\BatchFiles\Build.bat" CoinCollectorEditor Win64 Development -Project="C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\CoinCollector.uproject" -WaitMutex -FromMsBuild" exited with code 5. Please verify that you have sufficient rights to run this command.
