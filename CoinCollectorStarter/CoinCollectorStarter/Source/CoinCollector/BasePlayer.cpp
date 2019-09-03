@@ -41,11 +41,16 @@ void ABasePlayer::Tick(float DeltaTime)
 // Called to bind functionality to input
 void ABasePlayer::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
+	
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
 	//bind axis mappings to movement functions
 	InputComponent->BindAxis("MoveUp", this, &ABasePlayer::MoveUp);
 	InputComponent->BindAxis("MoveRight", this, &ABasePlayer::MoveRight);
+
+	//bind jump mapping when key is pressed
+	InputComponent->BindAction("Jump", IE_Pressed, this, &ABasePlayer::Jump);
+
 }
 
 //movement functions
