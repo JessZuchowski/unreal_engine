@@ -1,6 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "BaseCoin.h"
+#include "BasePlayer.h"
 
 // Sets default values
 ABaseCoin::ABaseCoin()
@@ -14,6 +15,9 @@ ABaseCoin::ABaseCoin()
 	CoinMesh->SetupAttachment(Root);
 	CoinMesh->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Overlap);
 	RotationRate = 100;
+
+	//binding overlap function
+	OnActorBeginOverlap.AddDynamic(this, &ABaseCoin::OnOverlap);
 }
 
 // Called when the game starts or when spawned
@@ -38,4 +42,12 @@ void ABaseCoin::PlayCustomDeath()
 {
 	RotationRate = 1500;
 	GetWorldTimerManager().SetTimer(DeathTimerHandle, this, &ABaseCoin::DeathTimerComplete, 0.5f, false);
+}
+
+//implementing overlaps
+void ABaseCoin::OnOverlap(AActor* OverlappedActor, AActor* OtherActor) {
+	//cast OtherActor to ABasePlayer and destroy coin on overlap
+	if (Cast<ABasePlayer>(OtherActor) != nullptr) {
+		Destroy();
+	}
 }

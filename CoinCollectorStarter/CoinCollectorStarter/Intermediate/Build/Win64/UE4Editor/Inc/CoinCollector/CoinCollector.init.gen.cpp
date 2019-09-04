@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeCoinCollector_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x6715806B,
-				0x81EFE02C,
+				0xE3372B37,
+				0xAAE10359,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
