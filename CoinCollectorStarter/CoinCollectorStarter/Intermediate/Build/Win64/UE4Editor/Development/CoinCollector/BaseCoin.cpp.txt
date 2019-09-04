@@ -1,3 +1,9 @@
 C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\Intermediate\Build\Win64\UE4Editor\Development\CoinCollector\Definitions.CoinCollector.h
 c:\users\jessz\codefellows\post\unreal_engine\coincollectorstarter\coincollectorstarter\source\coincollector\BaseCoin.h
 C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\Intermediate\Build\Win64\UE4Editor\Inc\CoinCollector\BaseCoin.generated.h
+c:\users\jessz\codefellows\post\unreal_engine\coincollectorstarter\coincollectorstarter\source\coincollector\BasePlayer.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\Intermediate\Build\Win64\UE4Editor\Inc\CoinCollector\BasePlayer.generated.h

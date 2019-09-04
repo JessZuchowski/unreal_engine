@@ -8,13 +8,38 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class AActor;
 #ifdef COINCOLLECTOR_BaseCoin_generated_h
 #error "BaseCoin.generated.h already included, missing '#pragma once' in BaseCoin.h"
 #endif
 #define COINCOLLECTOR_BaseCoin_generated_h
 
-#define CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_RPC_WRAPPERS
-#define CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_RPC_WRAPPERS_NO_PURE_DECLS
+#define CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execOnOverlap) \
+	{ \
+		P_GET_OBJECT(AActor,Z_Param_OverlappedActor); \
+		P_GET_OBJECT(AActor,Z_Param_OtherActor); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->OnOverlap(Z_Param_OverlappedActor,Z_Param_OtherActor); \
+		P_NATIVE_END; \
+	}
+
+
+#define CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execOnOverlap) \
+	{ \
+		P_GET_OBJECT(AActor,Z_Param_OverlappedActor); \
+		P_GET_OBJECT(AActor,Z_Param_OtherActor); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->OnOverlap(Z_Param_OverlappedActor,Z_Param_OtherActor); \
+		P_NATIVE_END; \
+	}
+
+
 #define CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesABaseCoin(); \

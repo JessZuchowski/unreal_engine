@@ -38,4 +38,8 @@ public:
 	float RotationRate;
 
 	void PlayCustomDeath();
+
+	//execute when coin overlaps with another actor
+	UFUNCTION()
+		void OnOverlap(AActor* OverlappedActor, AActor* OtherActor);
 };
