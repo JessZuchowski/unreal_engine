@@ -37,9 +37,10 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	float RotationRate;
 
+	UFUNCTION(BlueprintCallable)
 	void PlayCustomDeath();
 
 	//execute when coin overlaps with another actor
-	UFUNCTION()
+	UFUNCTION(BlueprintNativeEvent)
 		void OnOverlap(AActor* OverlappedActor, AActor* OtherActor);
 };

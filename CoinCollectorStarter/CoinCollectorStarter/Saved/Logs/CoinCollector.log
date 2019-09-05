@@ -622,3 +622,61 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.04-17.34.49:198][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
 [2019.09.04-17.34.49:304][231]LogPlayLevel: Display: Destroying online subsystem :Context_2
 [2019.09.04-17.34.51:406][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.05-17.51.54:481][511]LogHotReload: New module detected: UE4Editor-CoinCollector-0010.dll
+[2019.09.05-17.51.55:551][516]LogHotReload: Starting Hot-Reload from IDE
+[2019.09.05-17.51.55:876][516]LogUObjectHash: Compacting FUObjectHashTables data took  19.52ms
+[2019.09.05-17.51.56:128][516]LogClass: Could not find existing class BaseCoin in package /Script/CoinCollector for HotReload, assuming new class
+[2019.09.05-17.51.56:134][516]LogClass: Function OnOverlap is new.
+[2019.09.05-17.51.56:135][516]LogClass: Function PlayCustomDeath is new.
+[2019.09.05-17.51.56:213][516]LogHotReload: Re-instancing BaseCoin after hot-reload.
+[2019.09.05-17.51.57:382][516]LogContentBrowser: Native class hierarchy updated for 'CoinCollector' in 0.0168 seconds. Added 2 classes and 2 folders.
+[2019.09.05-17.51.57:390][516]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.05-17.51.57:522][516]LogUObjectHash: Compacting FUObjectHashTables data took  14.60ms
+[2019.09.05-17.51.57:653][516]LogContentBrowser: Native class hierarchy populated in 0.0371 seconds. Added 2735 classes and 663 folders.
+[2019.09.05-17.51.57:676][516]Display: HotReload took  2.1s.
+[2019.09.05-17.54.30:831][709]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CoinCollector/Blueprints/BP_Coin.BP_Coin
+[2019.09.05-17.54.32:085][709]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0043 seconds. Added 121 classes and 0 folders.
+[2019.09.05-17.55.00:806][230]LogSlate: Window 'BP_Coin' being destroyed
+[2019.09.05-17.55.00:822][230]LogSlate: Window 'BP_Coin' being destroyed
+[2019.09.05-17.55.15:521][ 88]LogAssetEditorManager: Opening Asset editor for Class /Script/CoinCollector.BaseCoin
+[2019.09.05-17.55.16:149][ 88]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/jessz/codefellows/post/unreal_engine/CoinCollectorStarter/CoinCollectorStarter/Source/CoinCollector/BaseCoin.h'
+[2019.09.05-17.55.16:383][ 88]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/jessz/codefellows/post/unreal_engine/CoinCollectorStarter/CoinCollectorStarter/Source/CoinCollector/BaseCoin.cpp'
+[2019.09.05-18.11.25:382][471]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CoinCollector/Blueprints/BP_Coin.BP_Coin
+[2019.09.05-18.11.47:810][741]LogSlate: Window 'BP_Coin' being destroyed
+[2019.09.05-18.11.47:915][741]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CoinCollector/Blueprints/BP_Coin.BP_Coin
+[2019.09.05-18.11.48:334][741]LogSlate: Took 0.006952 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.05-18.13.25:919][675]LogSlate: Took 0.005919 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.05-18.13.36:203][  7]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/CoinCollectorStarter/CoinCollectorStarter/Saved/BP_Coin4A1C32384AE6DA05F2946892BBE5936F.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/CoinCollectorStarter/CoinCollectorStarter/Content/CoinCollector/Blueprints/BP_Coin.uasset'
+[2019.09.05-18.13.49:747][528]BlueprintLog: New page: Compile BP_Coin
+[2019.09.05-18.13.50:047][528]LogUObjectHash: Compacting FUObjectHashTables data took   8.67ms
+[2019.09.05-18.13.54:796][767]LogSlate: Window 'BP_Coin' being destroyed
+[2019.09.05-18.13.54:802][767]LogSlate: Window 'BP_Coin' being destroyed
+[2019.09.05-18.14.02:648][226]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.05-18.14.02:677][226]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/CoinCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.09.05-18.14.02:681][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.05-18.14.02:691][226]PIE: New page: PIE session: TutorialMap (Sep 5, 2019, 4:14:02 AM)
+[2019.09.05-18.14.02:699][226]LogPlayLevel: Creating play world package: /Game/CoinCollector/Maps/UEDPIE_0_TutorialMap
+[2019.09.05-18.14.02:757][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058306s)
+[2019.09.05-18.14.02:764][226]LogAIModule: Creating AISystem for world TutorialMap
+[2019.09.05-18.14.02:776][226]LogPlayLevel: PIE: World Init took: (0.017926s)
+[2019.09.05-18.14.02:776][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CoinCollector/Maps/TutorialMap.TutorialMap to /Game/CoinCollector/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.077422s)
+[2019.09.05-18.14.02:805][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.09.05-18.14.02:836][226]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.05-18.14.02:877][226]LogInit: FAudioDevice initialized.
+[2019.09.05-18.14.02:940][226]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.09.05-18.14.02:962][226]LogWorld: Bringing World /Game/CoinCollector/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2019.09.05-11.14.02
+[2019.09.05-18.14.02:966][226]LogWorld: Bringing up level for play took: 0.007802
+[2019.09.05-18.14.03:042][226]PIE: Play in editor start time for /Game/CoinCollector/Maps/UEDPIE_0_TutorialMap 0.204
+[2019.09.05-18.14.03:042][226]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/CoinCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.09.05-18.14.20:234][249]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/CoinCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.09.05-18.14.20:238][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-18.14.20:272][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.05-18.14.20:273][249]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/CoinCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/CoinCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.09.05-18.14.20:306][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-18.14.20:314][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.09.05-18.14.20:376][250]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.09.05-18.14.22:928][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.05-18.14.48:751][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.09.05-18.14.48:988][676]LogSavePackage: Moving '../../../../../../Users/jessz/codefellows/post/unreal_engine/CoinCollectorStarter/CoinCollectorStarter/Saved/TutorialMap_Auto1E089BF8C4BDD136DCB36C68ABB291E8B.tmp' to '../../../../../../Users/jessz/codefellows/post/unreal_engine/CoinCollectorStarter/CoinCollectorStarter/Saved/Autosaves/Game/CoinCollector/Maps/TutorialMap_Auto1.umap'
+[2019.09.05-18.14.48:996][676]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CoinCollector/Maps/TutorialMap' took 0.272
+[2019.09.05-18.14.48:996][676]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.272

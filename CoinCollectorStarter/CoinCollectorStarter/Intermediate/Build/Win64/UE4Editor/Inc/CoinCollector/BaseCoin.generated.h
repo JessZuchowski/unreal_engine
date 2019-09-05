@@ -15,6 +15,7 @@ class AActor;
 #define COINCOLLECTOR_BaseCoin_generated_h
 
 #define CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_RPC_WRAPPERS \
+	virtual void OnOverlap_Implementation(AActor* OverlappedActor, AActor* OtherActor); \
  \
 	DECLARE_FUNCTION(execOnOverlap) \
 	{ \
@@ -22,12 +23,21 @@ class AActor;
 		P_GET_OBJECT(AActor,Z_Param_OtherActor); \
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
-		P_THIS->OnOverlap(Z_Param_OverlappedActor,Z_Param_OtherActor); \
+		P_THIS->OnOverlap_Implementation(Z_Param_OverlappedActor,Z_Param_OtherActor); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execPlayCustomDeath) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->PlayCustomDeath(); \
 		P_NATIVE_END; \
 	}
 
 
 #define CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	virtual void OnOverlap_Implementation(AActor* OverlappedActor, AActor* OtherActor); \
  \
 	DECLARE_FUNCTION(execOnOverlap) \
 	{ \
@@ -35,11 +45,28 @@ class AActor;
 		P_GET_OBJECT(AActor,Z_Param_OtherActor); \
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
-		P_THIS->OnOverlap(Z_Param_OverlappedActor,Z_Param_OtherActor); \
+		P_THIS->OnOverlap_Implementation(Z_Param_OverlappedActor,Z_Param_OtherActor); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execPlayCustomDeath) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->PlayCustomDeath(); \
 		P_NATIVE_END; \
 	}
 
 
+#define CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_EVENT_PARMS \
+	struct BaseCoin_eventOnOverlap_Parms \
+	{ \
+		AActor* OverlappedActor; \
+		AActor* OtherActor; \
+	};
+
+
+#define CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_CALLBACK_WRAPPERS
 #define CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesABaseCoin(); \
@@ -83,12 +110,16 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABaseCoin); \
 
 
 #define CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_PRIVATE_PROPERTY_OFFSET
-#define CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_10_PROLOG
+#define CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_10_PROLOG \
+	CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_EVENT_PARMS
+
+
 #define CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_PRIVATE_PROPERTY_OFFSET \
 	CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_RPC_WRAPPERS \
+	CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_CALLBACK_WRAPPERS \
 	CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_INCLASS \
 	CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_STANDARD_CONSTRUCTORS \
 public: \
@@ -100,6 +131,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_PRIVATE_PROPERTY_OFFSET \
 	CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_CALLBACK_WRAPPERS \
 	CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_INCLASS_NO_PURE_DECLS \
 	CoinCollectorStarter_Source_CoinCollector_BaseCoin_h_13_ENHANCED_CONSTRUCTORS \
 private: \
