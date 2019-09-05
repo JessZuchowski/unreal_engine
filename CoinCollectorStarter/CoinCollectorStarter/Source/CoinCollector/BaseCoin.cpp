@@ -45,7 +45,7 @@ void ABaseCoin::PlayCustomDeath()
 }
 
 //implementing overlaps
-void ABaseCoin::OnOverlap(AActor* OverlappedActor, AActor* OtherActor) {
+void ABaseCoin::OnOverlap_Implementation(AActor* OverlappedActor, AActor* OtherActor) {
 	//cast OtherActor to ABasePlayer and destroy coin on overlap
 	if (Cast<ABasePlayer>(OtherActor) != nullptr) {
 		Destroy();

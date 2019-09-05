@@ -1,15 +1,16 @@
 ﻿  Creating makefile for CoinCollectorEditor (ini files are newer than makefile)
   Parsing headers for CoinCollectorEditor
     Running UnrealHeaderTool "C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\CoinCollector.uproject" "C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\Intermediate\Build\Win64\CoinCollectorEditor\Development\CoinCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for CoinCollectorEditor in 21.2999543 seconds
+  Reflection code generated for CoinCollectorEditor in 25.8975167 seconds
   Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 5 actions with 8 processes...
-    [1/5] BaseCoin.gen.cpp
-    [2/5] BaseCoin.cpp
-    [3/5] UE4Editor-CoinCollector-0009.lib
-       Creating library C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\Intermediate\Build\Win64\UE4Editor\Development\CoinCollector\UE4Editor-CoinCollector-0009.lib and object C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\Intermediate\Build\Win64\UE4Editor\Development\CoinCollector\UE4Editor-CoinCollector-0009.exp
-    [4/5] UE4Editor-CoinCollector-0009.dll
-       Creating library C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\Intermediate\Build\Win64\UE4Editor\Development\CoinCollector\UE4Editor-CoinCollector-0009.suppressed.lib and object C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\Intermediate\Build\Win64\UE4Editor\Development\CoinCollector\UE4Editor-CoinCollector-0009.suppressed.exp
-    [5/5] CoinCollectorEditor.target
-  Total time in Parallel executor: 14.88 seconds
-  Total execution time: 40.13 seconds
+  Building 6 actions with 8 processes...
+    [1/6] CoinCollector.init.gen.cpp
+    [2/6] BaseCoin.gen.cpp
+    [3/6] BaseCoin.cpp
+    [4/6] UE4Editor-CoinCollector-0010.lib
+       Creating library C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\Intermediate\Build\Win64\UE4Editor\Development\CoinCollector\UE4Editor-CoinCollector-0010.lib and object C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\Intermediate\Build\Win64\UE4Editor\Development\CoinCollector\UE4Editor-CoinCollector-0010.exp
+    [5/6] UE4Editor-CoinCollector-0010.dll
+       Creating library C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\Intermediate\Build\Win64\UE4Editor\Development\CoinCollector\UE4Editor-CoinCollector-0010.suppressed.lib and object C:\Users\jessz\codefellows\post\unreal_engine\CoinCollectorStarter\CoinCollectorStarter\Intermediate\Build\Win64\UE4Editor\Development\CoinCollector\UE4Editor-CoinCollector-0010.suppressed.exp
+    [6/6] CoinCollectorEditor.target
+  Total time in Parallel executor: 18.44 seconds
+  Total execution time: 49.79 seconds
